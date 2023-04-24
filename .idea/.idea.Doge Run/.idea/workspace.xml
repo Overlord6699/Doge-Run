@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f66fed45-e7af-4ee5-b112-dbc5030a5b57" name="Default Changelist" comment="first commit" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Pull.Settings">
+    <option name="BRANCH" value="main" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/WorldGeneration/Tile.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Save/DontDestroyOnLoad.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CameraMotor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Items/Item.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.ugui@1.0.0/Runtime/UI/Core/Image.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DDOL.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock://F:/Unity/Doge Run/Assets/Art/GUI PRO Kit - Fantasy RPG/+Document README+.meta" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/7E62198B-EAB2-4380-BBAC-29171862D1D8/39/JsonSerializer.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/MoneyController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/WorldGeneration/TileManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Items/Coin.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/Player.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/UIBehaviour.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/InputModules/BaseInputModule.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Save/SaveManager.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/WorldGeneration/Tile.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/AnimationController.cs" />
+        <option value="$PROJECT_DIR$/Assets/LevelController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/LevelController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerSpawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DeatgPanelController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/WorldGeneration/TileManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CameraMotor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MenuController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Save/SaveController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Save/JsonFileFileSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Save/DontDestroyOnLoad.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Score.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AuthManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/MenuController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Scenes/SceneLoader.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DDOL.cs" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerMotor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Items/IEnteractable.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/Player.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/PoisonController1.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/MoneyController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Items/Item.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Items/Coin.cs" />
+        <option value="$PROJECT_DIR$/Assets/Poison.cs" />
+        <option value="$PROJECT_DIR$/Assets/Box.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Items/Box.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Save/SaveData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Save/SaveManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/Score.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/PoisonController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Login/AuthManager.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2NqeH7Jf4sQFgwYLp9bPe27QaVW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.34994584" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.30010834" />
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="TODO_SCOPE" value="All Places" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JSON" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f66fed45-e7af-4ee5-b112-dbc5030a5b57" name="Default Changelist" comment="" />
+      <created>1680395950991</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680395950991</updated>
+      <workItem from="1680395955932" duration="3743000" />
+      <workItem from="1680436274702" duration="11032000" />
+      <workItem from="1680452739032" duration="7159000" />
+      <workItem from="1680462684448" duration="2839000" />
+      <workItem from="1680469630049" duration="66000" />
+      <workItem from="1680469945865" duration="521000" />
+      <workItem from="1680470492602" duration="25000" />
+      <workItem from="1680472968433" duration="4154000" />
+      <workItem from="1680526583405" duration="3351000" />
+      <workItem from="1680532040836" duration="151000" />
+      <workItem from="1680739369762" duration="1632000" />
+      <workItem from="1680741231991" duration="291000" />
+      <workItem from="1680746631418" duration="872000" />
+      <workItem from="1680750035169" duration="145000" />
+      <workItem from="1680750245442" duration="13000" />
+      <workItem from="1680751489635" duration="49000" />
+      <workItem from="1680987894122" duration="2588000" />
+      <workItem from="1681037185861" duration="2560000" />
+      <workItem from="1681039946930" duration="2275000" />
+      <workItem from="1681043125349" duration="149000" />
+      <workItem from="1681051856696" duration="696000" />
+      <workItem from="1681053222293" duration="98000" />
+      <workItem from="1681124656879" duration="61000" />
+      <workItem from="1681137627632" duration="622000" />
+      <workItem from="1681505626325" duration="2533000" />
+      <workItem from="1682371234954" duration="3463000" />
+      <workItem from="1682376557638" duration="1438000" />
+    </task>
+    <task id="LOCAL-00001" summary="fixed adaptive UI">
+      <created>1681124693571</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681124693571</updated>
+    </task>
+    <task id="LOCAL-00002" summary="changed UI">
+      <created>1681505708295</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1681505708295</updated>
+    </task>
+    <task id="LOCAL-00003" summary="changed UI">
+      <created>1681505826678</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1681505826678</updated>
+    </task>
+    <task id="LOCAL-00004" summary="first commit">
+      <created>1682377199815</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1682377199815</updated>
+    </task>
+    <task id="LOCAL-00005" summary="first commit">
+      <created>1682377613012</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1682377613012</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="fixed adaptive UI" />
+    <MESSAGE value="changed UI" />
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="183" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1680470210557">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="183" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1680470210557" />
+    <state width="1877" height="379" key="GridCell.Tab.0.bottom" timestamp="1681042228617">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="379" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1681042228617" />
+    <state width="1877" height="379" key="GridCell.Tab.0.center" timestamp="1681042228617">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="379" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1681042228617" />
+    <state width="1877" height="379" key="GridCell.Tab.0.left" timestamp="1681042228617">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="379" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1681042228617" />
+    <state width="1877" height="379" key="GridCell.Tab.0.right" timestamp="1681042228617">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="379" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1681042228617" />
+    <state width="1877" height="379" key="GridCell.Tab.1.bottom" timestamp="1681042228617">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="379" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1681042228617" />
+    <state width="1877" height="379" key="GridCell.Tab.1.center" timestamp="1681042228617">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="379" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1681042228617" />
+    <state width="1877" height="379" key="GridCell.Tab.1.left" timestamp="1681042228617">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="379" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1681042228617" />
+    <state width="1877" height="379" key="GridCell.Tab.1.right" timestamp="1681042228617">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="379" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1681042228617" />
+    <state width="1877" height="379" key="GridCell.Tab.2.bottom" timestamp="1681042228617">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="379" key="GridCell.Tab.2.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1681042228617" />
+    <state width="1877" height="379" key="GridCell.Tab.2.center" timestamp="1681042228617">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="379" key="GridCell.Tab.2.center/0.0.1920.1050@0.0.1920.1050" timestamp="1681042228617" />
+    <state width="1877" height="379" key="GridCell.Tab.2.left" timestamp="1681042228617">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="379" key="GridCell.Tab.2.left/0.0.1920.1050@0.0.1920.1050" timestamp="1681042228617" />
+    <state width="1877" height="379" key="GridCell.Tab.2.right" timestamp="1681042228617">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="379" key="GridCell.Tab.2.right/0.0.1920.1050@0.0.1920.1050" timestamp="1681042228617" />
+    <state width="1877" height="379" key="GridCell.Tab.3.bottom" timestamp="1681042228617">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="379" key="GridCell.Tab.3.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1681042228617" />
+    <state width="1877" height="379" key="GridCell.Tab.3.center" timestamp="1681042228617">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="379" key="GridCell.Tab.3.center/0.0.1920.1050@0.0.1920.1050" timestamp="1681042228617" />
+    <state width="1877" height="379" key="GridCell.Tab.3.left" timestamp="1681042228617">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="379" key="GridCell.Tab.3.left/0.0.1920.1050@0.0.1920.1050" timestamp="1681042228617" />
+    <state width="1877" height="379" key="GridCell.Tab.3.right" timestamp="1681042228617">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="379" key="GridCell.Tab.3.right/0.0.1920.1050@0.0.1920.1050" timestamp="1681042228617" />
+    <state x="807" y="438" key="VCS.ChangelistChooser" timestamp="1682376083040">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="807" y="438" key="VCS.ChangelistChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1682376083040" />
+    <state x="92" y="92" width="1736" height="866" key="VCS.FileHistoryDialog" timestamp="1681053072051">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="92" y="92" width="1736" height="866" key="VCS.FileHistoryDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1681053072051" />
+    <state x="552" y="244" key="Vcs.Push.Dialog.v2" timestamp="1682377821294">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="244" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1682377821294" />
+    <state x="638" y="124" width="644" height="801" key="find.popup" timestamp="1680439271420">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="638" y="124" width="644" height="801" key="find.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1680439271420" />
+    <state x="761" y="431" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1681505801117">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="761" y="431" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1681505801117" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/GameManager.cs</url>
+          <line>83</line>
+          <properties documentPath="F:\Unity\Doge Run\Assets\Scripts\GameManager.cs" initialLine="76">
+            <startOffsets>
+              <option value="2056" />
+            </startOffsets>
+            <endOffsets>
+              <option value="2094" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

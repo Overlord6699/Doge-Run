@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "60325507081",
+    "project_id": "doge-run-db2e4",
+    "storage_bucket": "doge-run-db2e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60325507081:android:97c86c5d3361788f1448d8",
+        "android_client_info": {
+          "package_name": "com.IlyarchikGames.DogeRun"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "60325507081-il9eljduglicu9984ht7g5h3t33adhdq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz_BjAr3oSvrwjwqumfBph42tfaklDtTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "60325507081-il9eljduglicu9984ht7g5h3t33adhdq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
