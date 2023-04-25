@@ -16,7 +16,12 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f66fed45-e7af-4ee5-b112-dbc5030a5b57" name="Default Changelist" comment="first commit" />
+    <list default="true" id="f66fed45-e7af-4ee5-b112-dbc5030a5b57" name="Default Changelist" comment="first commit">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Doge Run/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Doge Run/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Doge Run/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Doge Run/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Player/DogPolyart.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Player/DogPolyart.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,7 +47,6 @@
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.ugui@1.0.0/Runtime/UI/Core/Image.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DDOL.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="mock://F:/Unity/Doge Run/Assets/Art/GUI PRO Kit - Fantasy RPG/+Document README+.meta" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/7E62198B-EAB2-4380-BBAC-29171862D1D8/39/JsonSerializer.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/MoneyController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/WorldGeneration/TileManager.cs" root0="FORCE_HIGHLIGHTING" />
@@ -93,6 +97,7 @@
     </option>
   </component>
   <component name="ProjectId" id="2NqeH7Jf4sQFgwYLp9bPe27QaVW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -112,6 +117,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
@@ -169,6 +175,8 @@
       <workItem from="1681505626325" duration="2533000" />
       <workItem from="1682371234954" duration="3463000" />
       <workItem from="1682376557638" duration="1438000" />
+      <workItem from="1682378040307" duration="207000" />
+      <workItem from="1682455735338" duration="1025000" />
     </task>
     <task id="LOCAL-00001" summary="fixed adaptive UI">
       <created>1681124693571</created>
@@ -343,6 +351,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1877" height="379" key="GridCell.Tab.3.right/0.0.1920.1050@0.0.1920.1050" timestamp="1681042228617" />
+    <state x="461" y="169" key="SettingsEditor" timestamp="1682378210825">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="461" y="169" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1682378210825" />
     <state x="807" y="438" key="VCS.ChangelistChooser" timestamp="1682376083040">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
