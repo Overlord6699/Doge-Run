@@ -1130,6 +1130,8 @@ GameObject:
   - component: {fileID: 8737022581344051712}
   - component: {fileID: 8737022581334826983}
   - component: {fileID: 8737022581334826982}
+  - component: {fileID: 1867554233979270271}
+  - component: {fileID: 4660503155494397624}
   m_Layer: 0
   m_Name: DogPolyart
   m_TagString: Player
@@ -1190,6 +1192,7 @@ MonoBehaviour:
   _horizontalSpeed: 4
   _gravity: 10
   _animDuration: 2
+  _horizontalMovementBehavior: {fileID: 4660503155494397624}
 --- !u!143 &8737022581344051712
 CharacterController:
   m_ObjectHideFlags: 0
@@ -1236,6 +1239,31 @@ MonoBehaviour:
   _motor: {fileID: 6046636155310966859}
   _animationController: {fileID: 8737022581334826983}
   _HP: 1
+--- !u!114 &1867554233979270271
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7345147714347653391}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34c07a5bfce731941a4878c25c9b4c35, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &4660503155494397624
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7345147714347653391}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 81999a537dccaab488d99497bee4eeca, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _tiltThreshold: 0.1
 --- !u!1 &7345147714347653393
 GameObject:
   m_ObjectHideFlags: 0

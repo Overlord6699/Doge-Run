@@ -14,8 +14,7 @@ public class CameraMotor : MonoBehaviour
     private float _minHeight = 3f;
     [SerializeField]
     private float _maxHeight = 5f;
-    
-[SerializeField]
+    [SerializeField]
     private float _transition = 0f;
     [SerializeField]
     private float _animDuration = 1.5f;

@@ -13,7 +13,7 @@ public class TileManager : MonoBehaviour
     private float _spawnZ = 0f;
     [SerializeField]
     private int _tilesOnScreen = 7;
-[SerializeField]
+    [SerializeField]
     private float _safeZone = 10f;
     
     [SerializeField]

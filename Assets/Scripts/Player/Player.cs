@@ -40,7 +40,9 @@ public class Player : MonoBehaviour
     }
 
     private void GetItem()
-    {}
+    {
+        
+    }
     
     public void OnLevelUp(int level)
     {

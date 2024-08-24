@@ -17,9 +17,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f66fed45-e7af-4ee5-b112-dbc5030a5b57" name="Default Changelist" comment="first commit">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Doge Run/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Doge Run/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Doge Run/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Doge Run/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Doge Run/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Doge Run/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/GUI PRO Kit - Fantasy RPG/Prefabs/Prefabs_Component_Buttons/Button_Circle01-Group.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/GUI PRO Kit - Fantasy RPG/Prefabs/Prefabs_Component_Buttons/Button_Circle01-Group.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/GUI PRO Kit - Fantasy RPG/Prefabs/Prefabs_Component_Popups/Popup_01.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/GUI PRO Kit - Fantasy RPG/Prefabs/Prefabs_Component_Popups/Popup_01.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/GUI PRO Kit - Fantasy RPG/Prefabs/Prefabs_DemoScene_Panels/HomeScene.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/GUI PRO Kit - Fantasy RPG/Prefabs/Prefabs_DemoScene_Panels/HomeScene.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/GUI PRO Kit - Fantasy RPG/Prefabs/Prefabs_DemoScene_Panels/Panel_CharacterSelect.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/GUI PRO Kit - Fantasy RPG/Prefabs/Prefabs_DemoScene_Panels/Panel_CharacterSelect.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/GUI PRO Kit - Fantasy RPG/Prefabs/Prefabs_DemoScene_Panels/Panel_Equipment.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/GUI PRO Kit - Fantasy RPG/Prefabs/Prefabs_DemoScene_Panels/Panel_Equipment.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/GUI PRO Kit - Fantasy RPG/Prefabs/Prefabs_DemoScene_Panels/Panel_Guild.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/GUI PRO Kit - Fantasy RPG/Prefabs/Prefabs_DemoScene_Panels/Panel_Guild.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/GUI PRO Kit - Fantasy RPG/Prefabs/Prefabs_DemoScene_Panels/Panel_Heroes.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/GUI PRO Kit - Fantasy RPG/Prefabs/Prefabs_DemoScene_Panels/Panel_Heroes.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/GUI PRO Kit - Fantasy RPG/Prefabs/Prefabs_DemoScene_Panels/Panel_Mission.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/GUI PRO Kit - Fantasy RPG/Prefabs/Prefabs_DemoScene_Panels/Panel_Mission.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/GUI PRO Kit - Fantasy RPG/Prefabs/Prefabs_DemoScene_Panels/Panel_Ranking.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/GUI PRO Kit - Fantasy RPG/Prefabs/Prefabs_DemoScene_Panels/Panel_Ranking.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/GUI PRO Kit - Fantasy RPG/Prefabs/Prefabs_DemoScene_Panels/Panel_Shop_Chest.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/GUI PRO Kit - Fantasy RPG/Prefabs/Prefabs_DemoScene_Panels/Panel_Shop_Chest.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/GUI PRO Kit - Fantasy RPG/Prefabs/Prefabs_DemoScene_Panels/Panel_Shop_Gem.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/GUI PRO Kit - Fantasy RPG/Prefabs/Prefabs_DemoScene_Panels/Panel_Shop_Gem.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/GUI PRO Kit - Fantasy RPG/Prefabs/Prefabs_DemoScene_Panels/Panel_Shop_Gold.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/GUI PRO Kit - Fantasy RPG/Prefabs/Prefabs_DemoScene_Panels/Panel_Shop_Gold.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/GUI PRO Kit - Fantasy RPG/Prefabs/Prefabs_DemoScene_Panels/PlayScene_Pause.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/GUI PRO Kit - Fantasy RPG/Prefabs/Prefabs_DemoScene_Panels/PlayScene_Pause.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Models/DogKnight/Animator/DogControl.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Models/DogKnight/Animator/DogControl.controller" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Player/DogPolyart.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Player/DogPolyart.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Game.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Game.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CameraMotor.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/CameraMotor.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/GameManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/GameManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Player/Player.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Player/Player.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Player/PlayerMotor.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Player/PlayerMotor.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/WorldGeneration/TileManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/WorldGeneration/TileManager.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,10 +64,12 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/WorldGeneration/Tile.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Save/DontDestroyOnLoad.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E8A406DA-9985-49AF-9A26-80936C7DA25A/5d/343e1666/MonoBehaviour.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CameraMotor.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Items/Item.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.ugui@1.0.0/Runtime/UI/Core/Image.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/Behaviours/TouchMovementBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DDOL.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/7E62198B-EAB2-4380-BBAC-29171862D1D8/39/JsonSerializer.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/MoneyController.cs" root0="FORCE_HIGHLIGHTING" />
@@ -54,6 +78,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/Player.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/UIBehaviour.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/InputModules/BaseInputModule.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/IMovementBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Save/SaveManager.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -65,8 +90,6 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/LevelController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PlayerSpawner.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/DeatgPanelController.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/WorldGeneration/TileManager.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/CameraMotor.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/MenuController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Save/SaveController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Save/JsonFileFileSystem.cs" />
@@ -77,9 +100,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Scenes/SceneLoader.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/DDOL.cs" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerMotor.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Items/IEnteractable.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Player/Player.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/UI/PoisonController1.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/UI/MoneyController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Items/Item.cs" />
@@ -91,8 +112,17 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Save/SaveManager.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/UI/Score.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/UI/PoisonController.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/GameManager.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Login/AuthManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/Player.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CameraMotor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PauseManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/AcceleromentMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/IMovementBehaviour.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/Behaviours/TouchMovementBehaviour.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/Behaviours/AcceleromentMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerMotor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/WorldGeneration/TileManager.cs" />
       </list>
     </option>
   </component>
@@ -177,6 +207,11 @@
       <workItem from="1682376557638" duration="1438000" />
       <workItem from="1682378040307" duration="207000" />
       <workItem from="1682455735338" duration="1025000" />
+      <workItem from="1682459468140" duration="330000" />
+      <workItem from="1683142955915" duration="2539000" />
+      <workItem from="1683147987243" duration="1989000" />
+      <workItem from="1683273171679" duration="2015000" />
+      <workItem from="1685106837493" duration="921000" />
     </task>
     <task id="LOCAL-00001" summary="fixed adaptive UI">
       <created>1681124693571</created>
@@ -351,6 +386,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1877" height="379" key="GridCell.Tab.3.right/0.0.1920.1050@0.0.1920.1050" timestamp="1681042228617" />
+    <state x="540" y="267" key="IDE.errors.dialog" timestamp="1682459529907">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="540" y="267" key="IDE.errors.dialog/0.0.1920.1050@0.0.1920.1050" timestamp="1682459529907" />
     <state x="461" y="169" key="SettingsEditor" timestamp="1682378210825">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -367,6 +406,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="552" y="244" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1682377821294" />
+    <state x="821" y="259" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1682459489582">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="821" y="259" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1682459489582" />
     <state x="638" y="124" width="644" height="801" key="find.popup" timestamp="1680439271420">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -381,13 +424,13 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/Assets/Scripts/GameManager.cs</url>
-          <line>83</line>
+          <line>91</line>
           <properties documentPath="F:\Unity\Doge Run\Assets\Scripts\GameManager.cs" initialLine="76">
             <startOffsets>
-              <option value="2056" />
+              <option value="2285" />
             </startOffsets>
             <endOffsets>
-              <option value="2094" />
+              <option value="2323" />
             </endOffsets>
           </properties>
           <option name="timeStamp" value="2" />

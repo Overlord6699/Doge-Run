@@ -19,9 +19,13 @@ public class GameManager : MonoBehaviour
 
     //private ISaveFileSystem _saveFileSystem;
 
+    [SerializeField] private PauseManager _pauseManager;
+    
     [SerializeField]
     private Score _scoreController;
 
+    [SerializeField]
+    private GameObject _pausePanel;
     [SerializeField]
     private DeatgPanelController _deatgPanelController;
 
@@ -55,6 +59,10 @@ public class GameManager : MonoBehaviour
         }*/
         SaveManager.Instance.OnLoad += GetSaveData;
         SaveManager.Instance.OnSave += OnSceneSaved;
+
+        _pauseManager.OnGamePaused += PauseGame;
+        _pauseManager.OnGameResumed += ResumeGame;
+        
         SaveManager.Instance.Load();
 
         
@@ -127,6 +135,7 @@ public class GameManager : MonoBehaviour
 
     public void OnRetryPressed()
     {
+        _pausePanel.SetActive(false);
         _player.OnPlayerDied -= OnPlayerDied;
         Destroy(_player.gameObject);
         
@@ -149,5 +158,26 @@ public class GameManager : MonoBehaviour
         SaveManager.Instance.CreateSaveData(_scoreController.Highscore, _moneyController.Money);
         SaveManager.Instance.Save();
         
+    }
+    
+    
+    public void PauseGame()
+    {
+        _scoreController.enabled = false;
+        //отключаем движение игрока
+        _player.GetComponent<PlayerMotor>().enabled = false;
+        _player.GetComponent<Animator>().enabled = false;
+        
+        _pausePanel.SetActive(true);
+    }
+
+    public void ResumeGame()
+    {
+        _scoreController.enabled = true;
+        //отключаем движение игрока
+        _player.GetComponent<PlayerMotor>().enabled = true;
+        _player.GetComponent<Animator>().enabled = true;
+        
+        _pausePanel.SetActive(false);
     }
 }

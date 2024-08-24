@@ -38,6 +38,7 @@ private string _nextSceneName;
 void Awake()
 {
     //Check that all of the necessary dependencies for Firebase are present on the system
+    
     FirebaseApp.CheckAndFixDependenciesAsync().ContinueWith(task =>
     {
         dependencyStatus = task.Result;

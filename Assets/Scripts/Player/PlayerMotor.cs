@@ -8,7 +8,7 @@ public class PlayerMotor : MonoBehaviour
     
     
     [FormerlySerializedAs("_baseSpeed")] [SerializeField] private float _baseForwardSpeed = 5f;
-   [SerializeField]
+    [SerializeField]
     private float _horizontalSpeed = 4;
 
     
@@ -21,20 +21,16 @@ public class PlayerMotor : MonoBehaviour
     private float _verticalVelocity;
     private float _speed;
 
-    private int _screenCenter = Screen.width / 2;
+
+    [SerializeField]
+    private MovementBehaviour _horizontalMovementBehavior;
     
     private void Start()
     {
         _speed = _baseForwardSpeed;
         _characterController = GetComponent<CharacterController>();
     }
-
-
-    private float GetSpeedRatio(float touchPosX)
-    {
-        float centerOffset = Mathf.Abs(touchPosX - _screenCenter);
-        return (centerOffset / _screenCenter);
-    }
+    
     
     private void Update()
     {
@@ -47,24 +43,19 @@ public class PlayerMotor : MonoBehaviour
         
         _moveVector = Vector3.zero;
         _moveVector.z = _speed;
+
+        var moveHorizontalValue = 0f;
+
+        moveHorizontalValue = _horizontalMovementBehavior.MoveHorizontal();
         
-#if UNITY_ANDROID
-        if (Input.touchCount > 0)
-        {
-            var touch = Input.GetTouch(0);
-            
-            var dir = touch.position.x > _screenCenter ? 1f : -1f;
-            var ratio = GetSpeedRatio(touch.position.x);
-            
-            //smooth movement
-            _moveVector.x = ratio*dir*_horizontalSpeed;
-        }
-#endif
-
 #if UNITY_EDITOR || UNITY_STANDALONE 
-        _moveVector.x = Input.GetAxisRaw("Horizontal") * _horizontalSpeed;
+        moveHorizontalValue = Input.GetAxisRaw("Horizontal");
 #endif
-
+ 
+        
+        //smooth movement
+        _moveVector.x = moveHorizontalValue * _horizontalSpeed;
+        
         if (_characterController.isGrounded)
         {
             _verticalVelocity = -0.5f;
